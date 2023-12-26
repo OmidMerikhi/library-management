@@ -1,0 +1,2 @@
+ALTER TABLE `book`
+    ADD COLUMN `category` VARCHAR(255) DEFAULT NULL;
